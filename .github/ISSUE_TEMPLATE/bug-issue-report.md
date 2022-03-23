@@ -27,4 +27,3 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 
-**Make sure you use tags to pick the application you are describing**

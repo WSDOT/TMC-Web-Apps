@@ -16,4 +16,3 @@ A clear and concise description of what you want to happen.
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
-**Make sure you use tags to pick the application you are describing**
