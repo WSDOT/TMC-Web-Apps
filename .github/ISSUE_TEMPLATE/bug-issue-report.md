@@ -2,7 +2,7 @@
 name: Bug/Issue report
 about: Create a report to help us improve an applicaiton
 title: ''
-labels: enhancement
+labels: bug
 assignees: ''
 
 ---
@@ -25,5 +25,3 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
-
-
